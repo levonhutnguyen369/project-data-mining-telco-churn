@@ -4,7 +4,7 @@
 Dự án được tổ chức thành các module riêng biệt để dễ quản lý và phát triển.
 
 ---
-
+Link colab: [https://colab.research.google.com/drive/19vJpfMhLEsmCS8AFmMvPxvCCklg3jqx-#scrollTo=DMXi261DfleR]
 ## 🚀 Cài đặt và chạy dự án
 
 ```bash
